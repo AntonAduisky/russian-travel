@@ -1,0 +1,13 @@
+.place__website {
+  min-height: 46px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin: 0;
+  padding: 0 16px;
+}
+@media (min-width: 768px) {
+  .place__website {
+    padding: 0;
+  }
+}

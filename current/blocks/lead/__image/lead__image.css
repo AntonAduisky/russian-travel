@@ -1,0 +1,22 @@
+.lead__image{
+    width:100%;
+    padding-top:62.5%;
+    background: url(../../../../images/lead-polka.jpg) no-repeat center top;
+    background-size: cover;
+}
+
+@media(min-width:768){
+    .lead__image{
+    
+    }
+}
+@media(min-width:768){
+    .lead__image{
+    
+    }
+}
+@media(min-width:768){
+    .lead__image{
+    
+    }
+}

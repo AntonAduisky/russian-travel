@@ -1,6 +1,5 @@
 .place__paragraph {
-  min-width: 288px;
-
+  max-width: 288px;
   font-size: 16px;
   line-height: 163%;
   color: #ffffff;
@@ -14,7 +13,7 @@
 @media (min-width: 768px) {
   .place__paragraph {
     padding: 0;
-    min-width: 352px;
+    max-width: 352px;
   }
   .place-paragraph:first-child {
     padding-bottom: 25px;
@@ -23,7 +22,7 @@
 @media (min-width: 1024px) {
   .place__paragraph {
     padding: 0;
-    min-width: 456px;
+    max-width: 456px;
     font-size: 18px;
   }
   .place-paragraph:first-child {
@@ -33,7 +32,6 @@
 @media (min-width: 1280px) {
   .place__paragraph {
     padding: 0;
-    min-width: 484px;
   }
   .place-paragraph:first-child {
     padding-bottom: 26px;

@@ -1,9 +1,9 @@
 .places {
-  max-width: 984px;
   width: 100%;
   display: grid;
   padding: 0;
   padding-bottom: 100px;
+  box-sizing: border-box;
 }
 
 @media (min-width: 768px) {

@@ -1,18 +1,17 @@
- .cover__link {
-  box-sizing:border-box;
+.cover__link {
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
   align-items: center;
-  cursor: pointer;
   text-decoration: none;
   padding-top: 20%;
   padding-bottom: 20%;
   background-color: rgba(42, 44, 47, 0.3);
   width: 100%;
   transition: background-color 0.3s linear;
-  -webkit-transition: background-color 0.2s linear;
+  -webkit-transition: background-color 0.3s linear;
 }
 
 .cover__link:hover {
   background-color: rgba(42, 44, 47, 0.8);
-} 
+}

@@ -1,12 +1,13 @@
 .footer__link {
   list-style: none;
 }
-.footer__link:not(:last-child){
-  padding-bottom:32px;
-}
-@media (min-width: 768px) {
-  .footer__link:not(:last-child){
-    padding:0 18px 0 0;
-  }
+
+.footer__link:not(:last-child) {
+  padding-bottom: 32px;
 }
 
+@media (min-width: 768px) {
+  .footer__link:not(:last-child) {
+      padding: 0 18px 0 0;
+  }
+}

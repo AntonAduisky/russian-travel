@@ -16,23 +16,23 @@
   background-color: rgba(42, 44, 47, 0.8);
 }
 
-@media(min-width:768px) {
+@media (min-width: 768px) {
   .cover__link {
-    padding-top: 15%;
-    padding-bottom: 15%;
+      padding-top: 15%;
+      padding-bottom: 15%;
   }
 }
 
 @media (min-width: 1024px) {
   .cover__link {
-    padding-top: 19%;
-    padding-bottom: 19%;
+      padding-top: 19%;
+      padding-bottom: 19%;
   }
 }
 
 @media (min-width: 1280px) {
   .cover__link {
-    padding-top: 20%;
-    padding-bottom: 20%;
+      padding-top: 20%;
+      padding-bottom: 20%;
   }
 }

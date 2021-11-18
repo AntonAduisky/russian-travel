@@ -11,9 +11,9 @@
 
 @media (min-width: 768px) {
   .lead__title {
-    max-width: 720px;
-    font-size: 96px;
-    line-height: 100px;
-    padding-bottom: 32px;
+      max-width: 720px;
+      font-size: 96px;
+      line-height: 100px;
+      padding-bottom: 32px;
   }
 }

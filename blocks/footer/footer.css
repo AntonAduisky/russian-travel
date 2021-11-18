@@ -9,16 +9,16 @@
 
 @media (min-width: 768px) {
   .footer {
-    padding-top: 88px;
-    padding-bottom: 24px;
-    flex-direction: row;
-    justify-content: space-between;
+      padding-top: 88px;
+      padding-bottom: 24px;
+      flex-direction: row;
+      justify-content: space-between;
   }
 }
 
 @media (min-width: 1024px) {
   .footer {
-    padding-top: 92px;
-    padding-bottom: 24px;
+      padding-top: 92px;
+      padding-bottom: 24px;
   }
 }

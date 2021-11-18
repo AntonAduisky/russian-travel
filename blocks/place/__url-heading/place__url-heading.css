@@ -10,6 +10,6 @@
 
 @media (min-width: 1024px) {
   .place__url-heading {
-    line-height: 20px;
+      line-height: 20px;
   }
 }

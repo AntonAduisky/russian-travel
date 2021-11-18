@@ -13,28 +13,28 @@
 
 @media (min-width: 768px) {
   .place__paragraph {
-    padding: 0;
-    max-width: 352px;
+      padding: 0;
+      max-width: 352px;
   }
 
   .place-paragraph:first-child {
-    padding-bottom: 25px;
+      padding-bottom: 25px;
   }
 }
 
 @media (min-width: 1024px) {
   .place__paragraph {
-    max-width: 456px;
-    font-size: 18px;
+      max-width: 456px;
+      font-size: 18px;
   }
 
   .place-paragraph:first-child {
-    padding-bottom: 27px;
+      padding-bottom: 27px;
   }
 }
 
 @media (min-width: 1280px) {
   .place-paragraph:first-child {
-    padding-bottom: 26px;
+      padding-bottom: 26px;
   }
 }

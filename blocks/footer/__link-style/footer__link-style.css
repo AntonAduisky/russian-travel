@@ -1,15 +1,12 @@
-.footer__link-style{
-        color:white;
-        text-decoration: none;
-        margin:0;
-        transition: opacity 0.3s ease-in-out;
-        -webkit-transition: opacity 0.3s ease-in-out;
-        cursor: pointer;
-        }
-        
-        .footer__link-style:hover{
-            opacity:  0.8;
-        }
+.footer__link-style {
+    color: white;
+    text-decoration: none;
+    margin: 0;
+    transition: opacity 0.3s ease-in-out;
+    -webkit-transition: opacity 0.3s ease-in-out;
+    cursor: pointer;
+}
 
-
- 
+.footer__link-style:hover {
+    opacity: 0.8;
+}

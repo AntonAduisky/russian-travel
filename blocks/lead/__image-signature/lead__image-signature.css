@@ -11,8 +11,8 @@
   padding: 0 16px;
 }
 
-@media(min-width:1024px) {
+@media (min-width: 1024px) {
   .lead__image-signature {
-    padding: 0;
+      padding: 0;
   }
 }

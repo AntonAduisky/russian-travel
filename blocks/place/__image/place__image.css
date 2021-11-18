@@ -4,18 +4,21 @@
   object-fit: contain;
   object-position: center top;
 }
+
 @media (min-width: 768px) {
   .place__image {
-    max-width: 340px;
+      max-width: 340px;
   }
 }
+
 @media (min-width: 1020px) {
   .place__image {
-    max-width: 440px;
+      max-width: 440px;
   }
 }
+
 @media (min-width: 1280px) {
   .place__image {
-    max-width: 460px;
+      max-width: 460px;
   }
 }

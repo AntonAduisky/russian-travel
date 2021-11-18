@@ -18,10 +18,12 @@
   .place__link {
   }
 }
+
 @media (min-width: 1024px) {
   .place__link {
   }
 }
+
 @media (min-width: 1280px) {
   .place__link {
   }

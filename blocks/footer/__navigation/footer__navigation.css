@@ -1,21 +1,11 @@
-.footer__navigation{
-   display: flex;
-   flex-direction: column;
-   justify-content: space-between;
+.footer__navigation {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
-@media(min-width:768px){
-    .footer__navigation{
-     
-    }
-}
-
-@media(min-width:768px){
-    .footer__navigation{
-        display: flex;
+@media (min-width: 768px) {
+    .footer__navigation {
         flex-direction: row;
-     
- 
     }
-    
 }

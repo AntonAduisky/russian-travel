@@ -9,12 +9,11 @@
   max-width: 560px;
 }
 
-
 @media (min-width: 768px) {
   .footer__links {
-    flex-direction: row;
-    justify-content:space-between ;
-    font-size: 16px;
-    line-height: 18px;
+      flex-direction: row;
+      justify-content: space-between;
+      font-size: 16px;
+      line-height: 18px;
   }
 }
